@@ -1,0 +1,20 @@
+body{
+  background-color:#000;
+  color:white;
+}
+#content {
+  overflow: hidden;
+  width: 850px;
+  height: 400px;
+  background-color: #333;
+  padding: 8px;
+}
+#lamp {
+  width: 40px;
+	height:40px;
+  float: right;
+	 background-color: #00badb;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
